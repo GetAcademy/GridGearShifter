@@ -1,19 +1,7 @@
-Lage en girspak 
- - tegne det opp
- - bare kunne gjøre lovlige bytter
 
- Hva skal vi bruke
-  - CSS
-  - grid inkl. named areas
-  - JavaScript - 3 grunnferdigheter
-
-  Plan
-   1: Tegne i paint
-   2: Enkel løsning med grid
-   3: Intro named areas, vise i Excel
-   4: Tegne opp med streker
-   5: JavaScript - litt nytt
-       - innerHTML += 
-       - kalle funksjon fra annen funksjon
-
-
+- Tegne Girspak v1 - kode med grid (+ vise flexbox)
+- Tegne Girspak v2 - grid med named areas, vise "slå sammen celler" i excel
+- JavaScript: bare kunne gjøre lovlige bytter
+  To nye ting: 
+    - innerHTML += 
+    - kalle funksjon fra annen funksjon  
