@@ -1,4 +1,3 @@
-
 - Tegne Girspak v1 - kode med grid (+ vise flexbox)
 - Tegne Girspak v2 - grid med named areas, vise "slå sammen celler" i excel
 - JavaScript: bare kunne gjøre lovlige bytter
